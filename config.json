@@ -1,5 +1,5 @@
 {
-  "dataset_root": "C:\\Users\\Name\\OneDrive - The University of Texas at Austin\\UT Austin-DEVICE\\Deep L\\Mini Project\\Image_Classification_DL\\data\\food-101",
+  "dataset_root": "/Users/vnandakumar/Documents/DeepLearning/Image_Classification_DL/data/food-101",
   "class_names": [
     "apple_pie",
     "beef_carpaccio",
